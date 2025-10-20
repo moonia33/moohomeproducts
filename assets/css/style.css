@@ -1,2 +1,8 @@
-.moohp-category-list table{width:100%}
-.moohp-category-list th,.moohp-category-list td{padding:.4rem}
+.moohp-category-list table {
+    width: 100%
+}
+
+.moohp-category-list th,
+.moohp-category-list td {
+    padding: .4rem
+}
