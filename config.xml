@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>moohomeproducts</name>
+    <displayName>Home Page Products Block</displayName>
+    <version>1.0.0</version>
+    <author>moonia</author>
+    <tab>front_office_features</tab>
+    <need_instance>0</need_instance>
+    <compatibility>1.7.8.0+</compatibility>
+</module>
